@@ -6,10 +6,14 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+dockerpath="jzerman2018/udacityapi"
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login &&\
+    docker image tag udacityapi $dockerpath
 
 # Step 3:
 # Push image to a docker repository
+docker image push $dockerpath
