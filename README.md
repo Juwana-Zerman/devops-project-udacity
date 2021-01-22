@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-In this project, I applid the skills acquired in the Udacity DevOps Nanodegree course to operationalize a Machine Learning Microservice API. 
+In this project, I applied the skills acquired in the Udacity DevOps Nanodegree course to operationalize a Machine Learning Microservice API. 
 This project was created using an AWS Cloud9 environment with an EC2 instance running Ubuntu Linux 18.04.
 
 The given pre-trained `sklearn` model to use has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
