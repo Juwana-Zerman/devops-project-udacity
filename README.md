@@ -1,8 +1,5 @@
 <img src="https://circleci.com/circleci-logo-stacked-fb.png" alt="drawing" width="100"/>
 
-[![CircleCI](https://circleci.com/gh/JZerman2018/devops-project-udacity.svg?style=svg&circle-token=90f776cb7c067b2d5413cae3f9bb693b01c31540)](https://app.circleci.com/pipelines/github/JZerman2018/devops-project-udacity)
-
-
 ## Project Overview
 
 In this project, I applied the skills acquired in the Udacity DevOps Nanodegree course to operationalize a Machine Learning Microservice API. 
