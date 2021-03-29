@@ -1,5 +1,5 @@
 <img src="https://circleci.com/circleci-logo-stacked-fb.png" alt="drawing" width="100"/>
-## AWS Cloud Devops Project
+AWS Cloud Devops Project
 
 ## Project Overview
 
